@@ -1,0 +1,5109 @@
+[
+    {
+        "id": 0,
+        "name": "Guard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 1,
+        "name": "TaoistGuard",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 2,
+        "name": "Guard2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 3,
+        "name": "Hen",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 4,
+        "name": "Deer",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 5,
+        "name": "Scarecrow",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 6,
+        "name": "HookingCat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 7,
+        "name": "RakingCat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 8,
+        "name": "Yob",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 9,
+        "name": "Oma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10,
+        "name": "CannibalPlant",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": [
+            "Has the ability to fully regenerate its health under certain conditions."
+        ]
+    },
+    {
+        "id": 11,
+        "name": "ForestYeti",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 12,
+        "name": "SpittingSpider",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Poisonous"
+        ],
+        "mechanics": [
+            "Applies status effects: Green poison."
+        ]
+    },
+    {
+        "id": 13,
+        "name": "ChestnutTree",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 14,
+        "name": "EbonyTree",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 15,
+        "name": "LargeMushroom",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 16,
+        "name": "CherryTree",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 17,
+        "name": "OmaFighter",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 18,
+        "name": "OmaWarrior",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 19,
+        "name": "CaveBat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 20,
+        "name": "CaveMaggot",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis poison."
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Scorpion",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 22,
+        "name": "Skeleton",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 23,
+        "name": "BoneFighter",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 24,
+        "name": "AxeSkeleton",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 25,
+        "name": "BoneWarrior",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 26,
+        "name": "BoneElite",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 27,
+        "name": "Dung",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 28,
+        "name": "Dark",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 29,
+        "name": "WoomaSoldier",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 30,
+        "name": "WoomaFighter",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 31,
+        "name": "WoomaWarrior",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 32,
+        "name": "FlamingWooma",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC)."
+        ]
+    },
+    {
+        "id": 33,
+        "name": "WoomaGuardian",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 34,
+        "name": "WoomaTaurus",
+        "type": "Boss",
+        "tags": [
+            "Teleports",
+            "Physical Attack (Default)"
+        ],
+        "mechanics": [
+            "Can teleport to reposition or escape when surrounded."
+        ]
+    },
+    {
+        "id": 35,
+        "name": "WhimperingBee",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 36,
+        "name": "GiantWorm",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 37,
+        "name": "Centipede",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 38,
+        "name": "BlackMaggot",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 39,
+        "name": "Tongs",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 40,
+        "name": "EvilTongs",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 41,
+        "name": "EvilCentipede",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis, Green poison.",
+            "Deals Area of Effect (AoE) damage within a 7-tile radius.",
+            "Has the ability to fully regenerate its health under certain conditions."
+        ]
+    },
+    {
+        "id": 42,
+        "name": "BugBat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 43,
+        "name": "BugBatMaggot",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 44,
+        "name": "WedgeMoth",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 45,
+        "name": "RedBoar",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 46,
+        "name": "BlackBoar",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 47,
+        "name": "SnakeScorpion",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 48,
+        "name": "WhiteBoar",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 49,
+        "name": "EvilSnake",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 50,
+        "name": "BombSpider",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 51,
+        "name": "RootSpider",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 52,
+        "name": "SpiderBat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 53,
+        "name": "VenomSpider",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green poison."
+        ]
+    },
+    {
+        "id": 54,
+        "name": "GangSpider",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 55,
+        "name": "GreatSpider",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 56,
+        "name": "LureSpider",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 57,
+        "name": "BigApe",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 58,
+        "name": "EvilApe",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 59,
+        "name": "GrayEvilApe",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 60,
+        "name": "RedEvilApe",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 61,
+        "name": "CrystalSpider",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green poison."
+        ]
+    },
+    {
+        "id": 62,
+        "name": "RedMoonEvil",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 63,
+        "name": "BigRat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 64,
+        "name": "ZumaArcher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 65,
+        "name": "ZumaStatue",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 66,
+        "name": "ZumaGuardian",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 67,
+        "name": "RedThunderZuma",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 68,
+        "name": "ZumaTaurus",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC)."
+        ]
+    },
+    {
+        "id": 69,
+        "name": "DigOutZombie",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 70,
+        "name": "ClZombie",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 71,
+        "name": "NdZombie",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 72,
+        "name": "CrawlerZombie",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 73,
+        "name": "ShamanZombie",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Ghoul",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 75,
+        "name": "KingScorpion",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 76,
+        "name": "KingHog",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 77,
+        "name": "DarkDevil",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 78,
+        "name": "BoneFamiliar",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 79,
+        "name": "Shinsu",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 80,
+        "name": "Shinsu1",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 81,
+        "name": "SpiderFrog",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 82,
+        "name": "HoroBlaster",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 83,
+        "name": "BlueHoroBlaster",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 84,
+        "name": "KekTal",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 85,
+        "name": "VioletKekTal",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 86,
+        "name": "Khazard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 87,
+        "name": "RoninGhoul",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 88,
+        "name": "ToxicGhoul",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green poison.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 89,
+        "name": "BoneCaptain",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 90,
+        "name": "BoneSpearman",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 91,
+        "name": "BoneBlademan",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 92,
+        "name": "BoneArcher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 93,
+        "name": "BoneLord",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Minotaur",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 95,
+        "name": "IceMinotaur",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 96,
+        "name": "ElectricMinotaur",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 97,
+        "name": "WindMinotaur",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 98,
+        "name": "FireMinotaur",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 99,
+        "name": "RightGuard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 100,
+        "name": "LeftGuard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 101,
+        "name": "MinotaurKing",
+        "type": "Boss",
+        "tags": [
+            "Physical Attack (Default)",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 102,
+        "name": "FrostTiger",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Sheep",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 104,
+        "name": "Wolf",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 105,
+        "name": "ShellNipper",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 106,
+        "name": "Keratoid",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 107,
+        "name": "GiantKeratoid",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 108,
+        "name": "SkyStinger",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 109,
+        "name": "SandWorm",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 110,
+        "name": "VisceralWorm",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 111,
+        "name": "RedSnake",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 112,
+        "name": "TigerSnake",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 113,
+        "name": "Yimoogi",
+        "type": "Unique/Elite",
+        "tags": [
+            "Teleports",
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Red poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Can teleport to reposition or escape when surrounded."
+        ]
+    },
+    {
+        "id": 114,
+        "name": "GiantWhiteSnake",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 115,
+        "name": "BlueSnake",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 116,
+        "name": "YellowSnake",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 117,
+        "name": "HolyDeva",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 118,
+        "name": "AxeOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 119,
+        "name": "SwordOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 120,
+        "name": "CrossbowOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 121,
+        "name": "WingedOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 122,
+        "name": "FlailOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 123,
+        "name": "OmaGuard",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 124,
+        "name": "YinDevilNode",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 7-tile radius."
+        ]
+    },
+    {
+        "id": 125,
+        "name": "YangDevilNode",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 126,
+        "name": "OmaKing",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis poison.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 127,
+        "name": "BlackFoxman",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 128,
+        "name": "RedFoxman",
+        "type": "Unique/Elite",
+        "tags": [
+            "Teleports",
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Can teleport to reposition or escape when surrounded."
+        ]
+    },
+    {
+        "id": 129,
+        "name": "WhiteFoxman",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Slow poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 130,
+        "name": "TrapRock",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 131,
+        "name": "GuardianRock",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 132,
+        "name": "ThunderElement",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 133,
+        "name": "CloudElement",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 134,
+        "name": "GreatFoxSpirit",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis, Slow poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 30-tile radius."
+        ]
+    },
+    {
+        "id": 135,
+        "name": "HedgeKekTal",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 136,
+        "name": "BigHedgeKekTal",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 137,
+        "name": "RedFrogSpider",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 138,
+        "name": "BrownFrogSpider",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 139,
+        "name": "ArcherGuard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 140,
+        "name": "KatanaGuard",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 141,
+        "name": "ArcherGuard2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 142,
+        "name": "Pig",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 143,
+        "name": "Bull",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 144,
+        "name": "Bush",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 145,
+        "name": "ChristmasTree",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 146,
+        "name": "HighAssassin",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 147,
+        "name": "DarkDustPile",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 148,
+        "name": "DarkBrownWolf",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 149,
+        "name": "Football",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 150,
+        "name": "GingerBreadman",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 151,
+        "name": "HalloweenScythe",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 152,
+        "name": "GhastlyLeecher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 153,
+        "name": "CyanoGhast",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 154,
+        "name": "MutatedManworm",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 155,
+        "name": "CrazyManworm",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 156,
+        "name": "MudPile",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 157,
+        "name": "TailedLion",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 158,
+        "name": "Behemoth",
+        "type": "Boss",
+        "tags": [
+            "Physical Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Applies status effects: Paralysis, Dazed, Bleeding poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 159,
+        "name": "DarkDevourer",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 160,
+        "name": "PoisonHugger",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Applies status effects: Green poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 161,
+        "name": "Hugger",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Applies status effects: Green poison.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 162,
+        "name": "MutatedHugger",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 163,
+        "name": "DreamDevourer",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 164,
+        "name": "Treasurebox",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 165,
+        "name": "SnowPile",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 166,
+        "name": "Snowman",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 167,
+        "name": "SnowTree",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 168,
+        "name": "GiantEgg",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 169,
+        "name": "RedTurtle",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 170,
+        "name": "GreenTurtle",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 171,
+        "name": "BlueTurtle",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 172,
+        "name": "Catapult1",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 173,
+        "name": "Catapult2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 174,
+        "name": "OldSpittingSpider",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 175,
+        "name": "SiegeRepairman",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 176,
+        "name": "BlueSanta",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 177,
+        "name": "BattleStandard",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 178,
+        "name": "WingedBullLord",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 179,
+        "name": "RedYimoogi",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 180,
+        "name": "LionRiderMale",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 181,
+        "name": "LionRiderFemale",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 182,
+        "name": "Tornado",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 183,
+        "name": "FlameTiger",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 184,
+        "name": "WingedTigerLord",
+        "type": "Boss",
+        "tags": [
+            "Physical Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Applies status effects: Paralysis poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 185,
+        "name": "TowerTurtle",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 186,
+        "name": "FinialTurtle",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Frozen, Slow poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 187,
+        "name": "TurtleKing",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis, Dazed, Slow poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 188,
+        "name": "DarkTurtle",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 190,
+        "name": "DarkSwordOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 191,
+        "name": "DarkAxeOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 192,
+        "name": "DarkCrossbowOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 193,
+        "name": "DarkWingedOma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 194,
+        "name": "BoneWhoo",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 195,
+        "name": "DarkSpider",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 196,
+        "name": "ViscusWorm",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 197,
+        "name": "ViscusCrawler",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 198,
+        "name": "CrawlerLave",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 199,
+        "name": "DarkYob",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 200,
+        "name": "FlamingMutant",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 201,
+        "name": "StoningStatue",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 202,
+        "name": "FlyingStatue",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 203,
+        "name": "ValeBat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 204,
+        "name": "Weaver",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 205,
+        "name": "VenomWeaver",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 206,
+        "name": "CrackingWeaver",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 207,
+        "name": "ArmingWeaver",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 208,
+        "name": "CrystalWeaver",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 209,
+        "name": "FrozenZumaStatue",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 210,
+        "name": "FrozenZumaGuardian",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 211,
+        "name": "FrozenRedZuma",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 212,
+        "name": "GreaterWeaver",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 213,
+        "name": "SpiderWarrior",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 214,
+        "name": "SpiderBarbarian",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 215,
+        "name": "HellSlasher",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 216,
+        "name": "HellPirate",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 217,
+        "name": "HellCannibal",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 218,
+        "name": "HellKeeper",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC)."
+        ]
+    },
+    {
+        "id": 220,
+        "name": "WitchDoctor",
+        "type": "Unique/Elite",
+        "tags": [
+            "Teleports",
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Can teleport to reposition or escape when surrounded."
+        ]
+    },
+    {
+        "id": 221,
+        "name": "ManectricHammer",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 222,
+        "name": "ManectricClub",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 223,
+        "name": "ManectricClaw",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 224,
+        "name": "ManectricStaff",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 225,
+        "name": "NamelessGhost",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 226,
+        "name": "DarkGhost",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 227,
+        "name": "ChaosGhost",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 228,
+        "name": "ManectricBlest",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 229,
+        "name": "ManectricKing",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 7-tile radius."
+        ]
+    },
+    {
+        "id": 230,
+        "name": "Blank2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 231,
+        "name": "IcePillar",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Frozen poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 232,
+        "name": "FrostYeti",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 233,
+        "name": "ManectricSlave",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 234,
+        "name": "TrollHammer",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 235,
+        "name": "TrollBomber",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 236,
+        "name": "TrollStoner",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 237,
+        "name": "TrollKing",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 238,
+        "name": "FlameSpear",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 239,
+        "name": "FlameMage",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 240,
+        "name": "FlameScythe",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 241,
+        "name": "FlameAssassin",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 242,
+        "name": "FlameQueen",
+        "type": "Boss",
+        "tags": [
+            "Physical Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 7-tile radius."
+        ]
+    },
+    {
+        "id": 243,
+        "name": "HellKnight1",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 244,
+        "name": "HellKnight2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 245,
+        "name": "HellKnight3",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 246,
+        "name": "HellKnight4",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 247,
+        "name": "HellLord",
+        "type": "Boss",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 248,
+        "name": "WaterGuard",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 249,
+        "name": "IceGuard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Frozen, Slow poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 250,
+        "name": "ElementGuard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Red, Green poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 251,
+        "name": "DemonGuard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 252,
+        "name": "KingGuard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis, Green, Slow poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 253,
+        "name": "Snake10",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 254,
+        "name": "Snake11",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 255,
+        "name": "Snake12",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 256,
+        "name": "Snake13",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 257,
+        "name": "Snake14",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 258,
+        "name": "Snake15",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 259,
+        "name": "Snake16",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 260,
+        "name": "Snake17",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 265,
+        "name": "UndeadWolf",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 269,
+        "name": "LightBeast",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 270,
+        "name": "BloodBaboon",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 271,
+        "name": "HardenRhino",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 273,
+        "name": "FightingCat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 274,
+        "name": "FireCat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 275,
+        "name": "CatWidow",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 280,
+        "name": "Jar1",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 281,
+        "name": "Jar2",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Frozen poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 283,
+        "name": "RestlessJar",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Blindness poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 284,
+        "name": "GeneralMeowMeow",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 285,
+        "name": "Bunny",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 286,
+        "name": "Tucson",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 287,
+        "name": "TucsonFighter",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 292,
+        "name": "TucsonEgg",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green poison.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 293,
+        "name": "PlaguedTucson",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 296,
+        "name": "TucsonGeneral",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 10-tile radius."
+        ]
+    },
+    {
+        "id": 301,
+        "name": "RhinoWarrior",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 304,
+        "name": "StoneGolem",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 305,
+        "name": "EarthGolem",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 307,
+        "name": "TreeQueen",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 308,
+        "name": "PeacockSpider",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 309,
+        "name": "DarkBaboon",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 310,
+        "name": "TwinHeadBeast",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 316,
+        "name": "OmaWitchDoctor",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 317,
+        "name": "LightningBead",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 318,
+        "name": "HealingBead",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 319,
+        "name": "PowerUpBead",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 320,
+        "name": "DarkOmaKing",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 5-tile radius."
+        ]
+    },
+    {
+        "id": 321,
+        "name": "CaveStatue",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 322,
+        "name": "Mandrill",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 323,
+        "name": "PlagueCrab",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC)."
+        ]
+    },
+    {
+        "id": 324,
+        "name": "CreeperPlant",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Has the ability to fully regenerate its health under certain conditions."
+        ]
+    },
+    {
+        "id": 325,
+        "name": "FloatingWraith",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 326,
+        "name": "ArmedPlant",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 327,
+        "name": "AvengerPlant",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 328,
+        "name": "Nadz",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Applies status effects: Paralysis poison.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 329,
+        "name": "AvengingSpirit",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 330,
+        "name": "AvengingWarrior",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Red poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 331,
+        "name": "AxePlant",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 332,
+        "name": "WoodBox",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 333,
+        "name": "ClawBeast",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 334,
+        "name": "DarkCaptain",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 335,
+        "name": "SackWarrior",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Poisonous"
+        ],
+        "mechanics": [
+            "Applies status effects: Bleeding poison."
+        ]
+    },
+    {
+        "id": 336,
+        "name": "WereTiger",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 337,
+        "name": "KingHydrax",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis, Green poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 338,
+        "name": "Hydrax",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 339,
+        "name": "HornedMage",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 340,
+        "name": "BlueSoul",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 341,
+        "name": "HornedArcher",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 342,
+        "name": "ColdArcher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 343,
+        "name": "HornedWarrior",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 344,
+        "name": "FloatingRock",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius."
+        ]
+    },
+    {
+        "id": 345,
+        "name": "ScalyBeast",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis poison.",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 346,
+        "name": "HornedSorceror",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 347,
+        "name": "BoulderSpirit",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 348,
+        "name": "HornedCommander",
+        "type": "Boss",
+        "tags": [
+            "Teleports",
+            "Physical Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 3-tile radius.",
+            "Can teleport to reposition or escape when surrounded."
+        ]
+    },
+    {
+        "id": 349,
+        "name": "MoonStone",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 350,
+        "name": "SunStone",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 351,
+        "name": "LightningStone",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 352,
+        "name": "Turtlegrass",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 353,
+        "name": "ManTree",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Applies status effects: Stun poison.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 354,
+        "name": "Bear",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 355,
+        "name": "Leopard",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 356,
+        "name": "ChieftainArcher",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 357,
+        "name": "ChieftainSword",
+        "type": "Boss",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 358,
+        "name": "StoningSpider",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 359,
+        "name": "VampireSpider",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC)."
+        ]
+    },
+    {
+        "id": 360,
+        "name": "SpittingToad",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 361,
+        "name": "SnakeTotem",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 362,
+        "name": "CharmedSnake",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC)."
+        ]
+    },
+    {
+        "id": 363,
+        "name": "FrozenSoldier",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 364,
+        "name": "FrozenFighter",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 365,
+        "name": "FrozenArcher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 366,
+        "name": "FrozenKnight",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 367,
+        "name": "FrozenGolem",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 368,
+        "name": "IcePhantom",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 369,
+        "name": "SnowWolf",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Poisonous",
+            "AoE"
+        ],
+        "mechanics": [
+            "Applies status effects: Frozen, Slow poison.",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 370,
+        "name": "SnowWolfKing",
+        "type": "Boss",
+        "tags": [
+            "Magic Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 371,
+        "name": "WaterDragon",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 372,
+        "name": "BlackTortoise",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 373,
+        "name": "Manticore",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 374,
+        "name": "DragonWarrior",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "Poisonous"
+        ],
+        "mechanics": [
+            "Applies status effects: Dazed poison."
+        ]
+    },
+    {
+        "id": 375,
+        "name": "DragonArcher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 376,
+        "name": "Kirin",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC)."
+        ]
+    },
+    {
+        "id": 377,
+        "name": "Guard3",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 378,
+        "name": "ArcherGuard3",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 379,
+        "name": "Bunny2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 380,
+        "name": "FrozenMiner",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 381,
+        "name": "FrozenAxeman",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 382,
+        "name": "FrozenMagician",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 383,
+        "name": "SnowYeti",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 384,
+        "name": "IceCrystalSoldier",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 385,
+        "name": "DarkWraith",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "AoE"
+        ],
+        "mechanics": [
+            "Deals Area of Effect (AoE) damage within a 1-tile radius."
+        ]
+    },
+    {
+        "id": 386,
+        "name": "DarkSpirit",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 387,
+        "name": "CrystalBeast",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 388,
+        "name": "RedOrb",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 389,
+        "name": "BlueOrb",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 390,
+        "name": "YellowOrb",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 391,
+        "name": "GreenOrb",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 392,
+        "name": "WhiteOrb",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 393,
+        "name": "FatalLotus",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 394,
+        "name": "AntCommander",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Green, Dazed, Slow poison.",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 395,
+        "name": "CargoBoxwithlogo",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 396,
+        "name": "Doe",
+        "type": "Unique/Elite",
+        "tags": [
+            "Teleports",
+            "Physical Attack (Default)"
+        ],
+        "mechanics": [
+            "Can teleport to reposition or escape when surrounded."
+        ]
+    },
+    {
+        "id": 397,
+        "name": "Reindeer",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 398,
+        "name": "AngryReindeer",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 399,
+        "name": "CargoBox",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 400,
+        "name": "Ram1",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 401,
+        "name": "Ram2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 402,
+        "name": "Kite",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 403,
+        "name": "PurpleFaeFlower",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 404,
+        "name": "Furball",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 405,
+        "name": "GlacierSnail",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 406,
+        "name": "FurbolgWarrior",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 407,
+        "name": "FurbolgArcher",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 408,
+        "name": "FurbolgCommander",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 409,
+        "name": "RedFaeFlower",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 410,
+        "name": "FurbolgGuard",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 411,
+        "name": "GlacierBeast",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack (Default)",
+            "Poisonous"
+        ],
+        "mechanics": [
+            "Applies status effects: Slow poison."
+        ]
+    },
+    {
+        "id": 412,
+        "name": "GlacierWarrior",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 413,
+        "name": "ShardGuardian",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 414,
+        "name": "WarriorScroll",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 415,
+        "name": "TaoistScroll",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 416,
+        "name": "WizardScroll",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 417,
+        "name": "AssassinScroll",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 418,
+        "name": "HoodedSummoner",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic."
+        ]
+    },
+    {
+        "id": 419,
+        "name": "HoodedIceMage",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 420,
+        "name": "HoodedPriest",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 421,
+        "name": "ShardMaiden",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 422,
+        "name": "KingKong",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 423,
+        "name": "WarBear",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 424,
+        "name": "ReaperPriest",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 425,
+        "name": "ReaperWizard",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 426,
+        "name": "ReaperAssassin",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 427,
+        "name": "LivingVines",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 428,
+        "name": "BlueMonk",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 429,
+        "name": "MutantBeserker",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 430,
+        "name": "MutantGuardian",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 431,
+        "name": "MutantHighPriest",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 432,
+        "name": "MysteriousMage",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 433,
+        "name": "FeatheredWolf",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 434,
+        "name": "MysteriousAssassin",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 435,
+        "name": "MysteriousMonk",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 436,
+        "name": "ManEatingPlant",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 437,
+        "name": "HammerDwarf",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 438,
+        "name": "ArcherDwarf",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 439,
+        "name": "NobleWarrior",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 440,
+        "name": "NobleArcher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 441,
+        "name": "NoblePriest",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 442,
+        "name": "NobleAssassin",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 443,
+        "name": "Swain",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 444,
+        "name": "RedMutantPlant",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 445,
+        "name": "BlueMutantPlant",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 446,
+        "name": "UndeadHammerDwarf",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 447,
+        "name": "UndeadDwarfArcher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 448,
+        "name": "AncientStoneGolem",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 449,
+        "name": "Serpentirian",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 450,
+        "name": "Butcher",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 451,
+        "name": "Riklebites",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 452,
+        "name": "FeralTundraFurbolg",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 453,
+        "name": "FeralFlameFurbolg",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 454,
+        "name": "ArcaneTotem",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 455,
+        "name": "SpectralWraith",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 456,
+        "name": "BabyMagmaDragon",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 457,
+        "name": "BloodLord",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 458,
+        "name": "SerpentLord",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 459,
+        "name": "MirEmperor",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 460,
+        "name": "MutantManEatingPlant",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 461,
+        "name": "MutantWarg",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 462,
+        "name": "GrassElemental",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 463,
+        "name": "RockElemental",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 900,
+        "name": "EvilMir",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Poisonous",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Applies status effects: Paralysis, Green poison.",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 901,
+        "name": "EvilMirBody",
+        "type": "Unique/Elite",
+        "tags": [
+            "Physical Attack"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 902,
+        "name": "DragonStatue",
+        "type": "Unique/Elite",
+        "tags": [
+            "Magic Attack",
+            "Ranged",
+            "AoE"
+        ],
+        "mechanics": [
+            "Attacks bypass physical armor and hit Magic Defense (MAC).",
+            "Capable of attacking from a distance with projectiles or magic.",
+            "Deals Area of Effect (AoE) damage within a 2-tile radius."
+        ]
+    },
+    {
+        "id": 903,
+        "name": "HellBomb1",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 904,
+        "name": "HellBomb2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 905,
+        "name": "HellBomb3",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 940,
+        "name": "Catapult",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 941,
+        "name": "ChariotBallista",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 942,
+        "name": "Ballista",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 943,
+        "name": "Trebuchet",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 944,
+        "name": "CanonTrebuchet",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 950,
+        "name": "SabukGate",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 951,
+        "name": "PalaceWallLeft",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 952,
+        "name": "PalaceWall1",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 953,
+        "name": "PalaceWall2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 954,
+        "name": "GiGateSouth",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 955,
+        "name": "GiGateEast",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 956,
+        "name": "GiGateWest",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 957,
+        "name": "SSabukWall1",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 958,
+        "name": "SSabukWall2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 959,
+        "name": "SSabukWall3",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 960,
+        "name": "NammandGate1",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 961,
+        "name": "NammandGate2",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 962,
+        "name": "SabukWallSection",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 963,
+        "name": "NammandWallSection",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 964,
+        "name": "FrozenDoor",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10000,
+        "name": "BabyPig",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10001,
+        "name": "Chick",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10002,
+        "name": "Kitten",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10003,
+        "name": "BabySkeleton",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10004,
+        "name": "Baekdon",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10005,
+        "name": "Wimaen",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10006,
+        "name": "BlackKitten",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10007,
+        "name": "BabyDragon",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10008,
+        "name": "OlympicFlame",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10009,
+        "name": "BabySnowMan",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10010,
+        "name": "Frog",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10011,
+        "name": "BabyMonkey",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10012,
+        "name": "AngryBird",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10013,
+        "name": "Foxey",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    },
+    {
+        "id": 10014,
+        "name": "MedicalRat",
+        "type": "Standard",
+        "tags": [
+            "Physical Attack (Default)",
+            "Melee"
+        ],
+        "mechanics": []
+    }
+]
