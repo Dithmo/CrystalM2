@@ -30,26 +30,33 @@ document.addEventListener("DOMContentLoaded", () => {
             const card = document.createElement("article");
             card.classList.add("monster-card");
 
-            // Special styling for known Bosses or deep-dives
-            if (monster.type.includes("Boss") || monster.mechanics.length > 0) {
+            if (monster.type.includes("Boss") || monster.tags.includes("AoE") || monster.tags.includes("Poisonous")) {
                  card.classList.add("boss-card");
             }
 
             let html = `
                 <h3>${monster.name} <span class="monster-id">#${monster.id}</span></h3>
-                <p class="type">Type: ${monster.type}</p>
-                <p><strong>Overview:</strong> ${monster.description}</p>
+                <p class="type">Class: ${monster.type}</p>
+                <div class="tags">
             `;
 
+            if (monster.tags && monster.tags.length > 0) {
+                monster.tags.forEach(tag => {
+                    html += `<span class="tag ${tag.toLowerCase().replace(/[^a-z0-9]/g, '-')}">${tag}</span>`;
+                });
+            }
+
+            html += `</div>`;
+
             if (monster.mechanics && monster.mechanics.length > 0) {
-                html += `<h4>Mechanics</h4><ul>`;
+                html += `<div class="mechanics-list"><h4>Combat Mechanics</h4><ul>`;
                 monster.mechanics.forEach(mech => {
                     html += `<li>${mech}</li>`;
                 });
-                html += `</ul>`;
+                html += `</ul></div>`;
+            } else {
+                html += `<div class="mechanics-list"><h4>Combat Mechanics</h4><ul><li>Basic physical melee attacks. Avoid being surrounded.</li></ul></div>`;
             }
-
-            html += `<h4>Strategy</h4><p>${monster.strategy}</p>`;
 
             card.innerHTML = html;
             monsterContainer.appendChild(card);
