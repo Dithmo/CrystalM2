@@ -16,54 +16,26 @@
         </nav>
         <h1>Legend of Mir 2 Monsters</h1>
         <p>A comprehensive guide to the beasts that inhabit the world of Mir.</p>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search monsters by name or type...">
+            <select id="typeFilter">
+                <option value="All">All Types</option>
+                <option value="Boss">Bosses</option>
+                <option value="Unique">Unique Mechanics</option>
+                <option value="Standard">Standard</option>
+            </select>
+        </div>
     </header>
 
-    <main class="monster-grid">
-        <article class="monster-card">
-            <h3>EvilCentipede</h3>
-            <p class="type">Type: Ambush / Stationary</p>
-            <p><strong>Overview:</strong> The EvilCentipede is a deadly, stationary monster that waits hidden underground. It is completely invincible and regenerates health while hidden.</p>
-            <h4>Mechanics</h4>
-            <ul>
-                <li><strong>Ambush Trigger:</strong> It will burst from the ground when a player steps within 3 tiles of its location.</li>
-                <li><strong>Area of Effect:</strong> Once visible, it attacks every player within a massive 7-tile radius simultaneously.</li>
-                <li><strong>Dual Poison:</strong> Its strikes ignore physical defense (hitting Magic Defense instead) and apply two brutal poisons: Green (Damage over time) and Paralysis (Stun).</li>
-            </ul>
-            <h4>Strategy</h4>
-            <p>Do not cluster! Keep your distance. If all players move further than 7 tiles away, it will burrow back underground and heal to full health. Prepare high Magic Defense and poison resistance.</p>
-        </article>
-
-        <article class="monster-card">
-            <h3>EvilMir</h3>
-            <p class="type">Type: Mega Boss / Dragon</p>
-            <p><strong>Overview:</strong> A legendary stationary dragon boss linked directly to the server's Dragon System. Defeating it is the primary way to level up the server-wide Dragon level.</p>
-            <h4>Mechanics</h4>
-            <ul>
-                <li><strong>Dynamic Attacks:</strong> It chooses between a devastating melee swipe hitting everything within 17 tiles, or a targeted fireball that explodes in a 2-tile radius.</li>
-                <li><strong>System Link:</strong> As you damage it, the Dragon System gains EXP. However, getting hit by it can actually decrease the server's Dragon level!</li>
-                <li><strong>Invincible Slumber:</strong> When reduced to 0 HP, it does not die. Instead, it grants a massive EXP bounty to the Dragon System and goes to sleep, becoming invincible for exactly 5 minutes before waking up at full health.</li>
-            </ul>
-            <h4>Strategy</h4>
-            <p>This is a raid-level boss. You must coordinate to avoid the 17-tile wipe mechanic while managing the 2-tile fireball splash damage. Healing is crucial as both attacks apply severe Paralyze and Green poisons.</p>
-        </article>
-
-        <article class="monster-card">
-            <h3>WoomaTaurus</h3>
-            <p class="type">Type: Boss / Melee-Caster</p>
-            <p><strong>Overview:</strong> The feared leader of the Wooma Temple. A powerful boss that relies on magical fire attacks and highly aggressive AI to prevent players from cornering him.</p>
-            <h4>Mechanics</h4>
-            <ul>
-                <li><strong>Magical Melee:</strong> Despite looking like physical punches, his attacks are actually magical fire blasts that bypass Armor and hit Magic Defense (MAC) instead.</li>
-                <li><strong>Enrage Stages:</strong> His health is divided into 7 stages. Every time he drops a stage, he enters an 8-second "Enrage" mode where his movement and attack speed double.</li>
-                <li><strong>Anti-Surround:</strong> Every 10 seconds, he scans the 8 tiles around him. If 5 or more are blocked by players or pets, he will instantly cast a random teleport up to 4 tiles away to break the trap.</li>
-            </ul>
-            <h4>Strategy</h4>
-            <p>Do not try to surround or trap him against a wall, as he will teleport out and reset his aggro. Kite him carefully, and back away when he enters one of his 8-second Enrage phases.</p>
-        </article>
+    <main class="monster-grid" id="monsterContainer">
+        <!-- Monster Cards will be dynamically injected here by app.js -->
     </main>
 
     <footer>
         <p>&copy; 2024 Legend of Mir 2 Database & Guide</p>
     </footer>
+
+    <script src="app.js"></script>
 </body>
 </html>

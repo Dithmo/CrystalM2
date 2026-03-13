@@ -67,6 +67,25 @@ main {
     padding-left: 20px;
 }
 
+/* Search and Filter */
+.search-container {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+#searchInput, #typeFilter {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#searchInput {
+    width: 300px;
+}
+
 /* Monster Grid */
 .monster-grid {
     display: grid;
@@ -82,11 +101,30 @@ main {
     border-left: 5px solid #e74c3c;
 }
 
+.boss-card {
+    border-left: 5px solid #e74c3c;
+}
+
+.monster-card {
+    border-left: 5px solid #bdc3c7;
+}
+
 .monster-card h3 {
     margin-top: 0;
-    color: #c0392b;
+    color: #2c3e50;
     border-bottom: 1px solid #ecf0f1;
     padding-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boss-card h3 {
+    color: #c0392b;
+}
+
+.monster-id {
+    font-size: 0.8em;
+    color: #95a5a6;
 }
 
 .monster-card .type {
